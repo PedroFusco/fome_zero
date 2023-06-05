@@ -79,4 +79,63 @@ empresa e que sejam gerados dashboards, a partir dessas análises, para responde
 13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos online e fazem entregas?
 
 # 2. Premissas assumidas para análise
+1. Marketplace foi o modelo de negócio assumido.
+2. As visões de negócio foram: Visão Países, visão cidades e visão tipos culinários
+
+# 3. Estratégia da solução
+
+O dashboard foi construido utilizando as métricas que refletem as 3 principais visões do modelo de negócio da empresa.
+
+1. Visão por países
+2. Visão por cidades
+3. Visão por tipos culinários
+
+Também encontramos no dashboard uma página principal contendo um mapa interativo para a visão detalhada dos restaurantes cadastrados.
+
+
+## 1. Visão Geral
+
+1. Quantidade total de restaurantes cadastrados
+2. Quantidade total de países cadastrados
+3. Quantidade total de cidades cadastradas
+4. Quantidade total de avaliações realizadas
+5. Quantidade total de tipos culinários cadastrados
+6. Mapa interativo com localização dos restaurantes
+
+## 2. Visão Países
+
+1. Quantidade de restaurantes registrados por país
+2. Quantidade de cidades c=registradas por país
+3. Média de avaliaçòes realizadas por país
+4. mëdia de preços de prato para duas pessoas por país
+
+## 3. Visão Cidades
+
+1. Top 10 cidades com mais restaurantes na base de dados
+2. Top 7 cidades com restaurantes com média de avaliação acima de 4
+3. Top 7 cidades com restaurantes com média de avaliação abaixo de 2,5
+4. Top 10 cidades com mais tipos culinários distintos
+
+## 4. Visão Culinárias
+
+1. Top 10 melhores tipos culinários
+2. Top 10 piores tipos culinários
+3. Tabela com detalhes dos top 10 restaurantes
+
+# 4. Top 3 Insights de dados
+
+1. Mais da metade dos restaurantes cadastrados se encontrão na índia
+
+
+
+
+
+
+
+
+
+
+
+
+
 
