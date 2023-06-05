@@ -59,7 +59,7 @@ with st.container():
 st.markdown("""---""")
 with st.container():
     st.markdown("<h2 style='text_align=center'>Quantidade de Cidades Registrados por País</h2>", unsafe_allow_html=True)
-    fig = funcoes.qtde_restaurante_pais(base_df)
+    fig = funcoes.qtde_cidade_pais(base_df)
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("""---""")
