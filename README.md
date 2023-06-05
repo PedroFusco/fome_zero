@@ -124,11 +124,25 @@ Também encontramos no dashboard uma página principal contendo um mapa interati
 
 # 4. Top 3 Insights de dados
 
-1. Mais da metade dos restaurantes cadastrados se encontrão na índia
+1. A Índia possui mais da metade da quantidade total de restaurantes cadastrados, uma média de pouco mais de 63 restaurantes por cidade.
+2. As cidades Bangalore na Índia e Londres na Inglaterra possuem a maior quantidade de restaurantes com as melhores avaliações. Dos 80 restaurantes cadastrados em cada cidade, Bangalore possui 79 restaurantes com avaliações acima de 4 e Londres possui 78.
+3. No Brasil, a maior parte dos restaurantes mais bem avaliados estão no Rio de Janeiro
+
+# 5. O produto final do projeto
+
+O produto final é um painel online hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado pelo link: https://pedrofusco-projects-fomezero.streamlit.app/Vis%C3%A3o_Culin%C3%A1rias
 
 
+# 6. Conclusão
+
+O objetivo desse projeto é criar um conjento de gráficos e tabelas que exibam as métricas da melhor forma possível para o CEO. Na visão países temos a maior quantidade de restaurantes cadastrados na Índia, assim como a cidade com a maior quantidade de restaurantes mais bem avaliados.
 
 
+# 7. Próximos passos
+
+1. Aplicar visualizações mais objetivas
+2. Aplicar novos filtros
+3. Incluir novas visões de negócio
 
 
 
